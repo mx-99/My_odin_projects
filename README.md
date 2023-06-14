@@ -1,7 +1,7 @@
 # My_odin_projects
 All the projects I've completed throughout The Odin Project's web development courses
 
-# ![alt text]https://fontawesome.com/icons/trowel-bricks?f=classic&s=solid "Foundations") 
+# https://github.githubassets.com/images/icons/emoji/unicode/1f3e0.png Foundations
 
 | Project | Topic|Repository| Live Preview| Rating                       
 |--|-----|-----|------|--|
